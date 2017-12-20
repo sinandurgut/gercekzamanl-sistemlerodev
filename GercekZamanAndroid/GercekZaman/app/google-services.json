@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764851456595",
+    "firebase_url": "https://react-4a864.firebaseio.com",
+    "project_id": "react-4a864",
+    "storage_bucket": "react-4a864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764851456595:android:e735c3e0606d527c",
+        "android_client_info": {
+          "package_name": "sinandurgut.com.gercekzaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764851456595-0d4ufc5n08548u0e2tpc44c0q6l8pa3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlZOB5LkkZVs3KV7Nxq92CslUqMtluyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

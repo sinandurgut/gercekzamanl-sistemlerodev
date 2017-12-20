@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1d3e8973fdef43dd9e6c746abbfd3b22" Name="Diagram1">
+        <EntityTypeShape EntityType="DatabaseContext.OLCUM" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="DatabaseContext.sysdiagrams" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="DatabaseContext.USER" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="DatabaseContext.UYARI" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="DatabaseContext.SETTING" Width="1.5" PointX="4.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

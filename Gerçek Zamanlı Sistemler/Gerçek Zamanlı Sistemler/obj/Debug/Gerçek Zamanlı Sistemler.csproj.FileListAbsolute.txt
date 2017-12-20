@@ -1,0 +1,37 @@
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Gerçek Zamanlı Sistemler.exe.config
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Gerçek Zamanlı Sistemler.exe
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Gerçek Zamanlı Sistemler.pdb
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.csprojResolveAssemblyReference.cache
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.Form1.resources
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.Properties.Resources.resources
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.csproj.GenerateResource.Cache
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.exe
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.pdb
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.Login.resources
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.dll
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.xml
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Newtonsoft.Json.dll
+D:\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Newtonsoft.Json.xml
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Gerçek Zamanlı Sistemler.exe.config
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.exe
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.pdb
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Gerçek Zamanlı Sistemler.exe
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Gerçek Zamanlı Sistemler.pdb
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.dll
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.SqlServer.dll
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Newtonsoft.Json.dll
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\OneSignal.CSharp.SDK.dll
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\RestSharp.dll
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.xml
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\EntityFramework.SqlServer.xml
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\Newtonsoft.Json.xml
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\bin\Debug\RestSharp.xml
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.csprojResolveAssemblyReference.cache
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.Form1.resources
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.Login.resources
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.Properties.Resources.resources
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek Zamanlı Sistemler.csproj.GenerateResource.Cache
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.FormRapor.resources
+D:\GercekZamanliSistemler\Gerçek Zamanlı Sistemler\Gerçek Zamanlı Sistemler\obj\Debug\Gerçek_Zamanlı_Sistemler.UserAdd.resources
